@@ -331,22 +331,22 @@ legend {
 
 .form__input--location {
   width: 300px;
-  background-image: url("./../../../img/icons/map.svg");
+  background-image: url("./../img/icons/map.svg");
 }
 
 .form__input--activity {
   width: 255px;
-  background-image: url("./../../../img/icons/activity.svg");
+  background-image: url("./../img/icons/activity.svg");
 }
 
 .form__input--date {
   width: 255px;
-  background-image: url("./../../../img/icons/calendar.svg");
+  background-image: url("./../img/icons/calendar.svg");
 }
 
 .form__input--guests {
   width: 255px;
-  background-image: url("./../../../img/icons/guests.svg");
+  background-image: url("./../img/icons/guests.svg");
 }
 
 .form__label {
@@ -450,7 +450,7 @@ legend {
 
 .card__location--icon {
   padding-left: 20px;
-  background-image: url("./../../img/icons/map-pin-line.svg");
+  background-image: url("./../img/icons/map-pin-line.svg");
   background-repeat: no-repeat;
   background-position: 0 1px;
 }
@@ -506,15 +506,15 @@ legend {
 }
 
 .card__footer-link--date {
-  background-image: url("./../../../img/icons/calendar-gray.svg");
+  background-image: url("./../img/icons/calendar-gray.svg");
 }
 
 .card__footer-link--author {
-  background-image: url("./../../../img/icons/user.svg");
+  background-image: url("./../img/icons/user.svg");
 }
 
 .card__footer-link--comments {
-  background-image: url("./../../../img/icons/comment.svg");
+  background-image: url("./../img/icons/comment.svg");
 }
 
 .footer {
@@ -638,7 +638,7 @@ legend {
   height: 72px;
   background-color: #fff;
   border-radius: 12px;
-  background-image: url("./../../../img/icons/email.svg");
+  background-image: url("./../img/icons/email.svg");
   background-repeat: no-repeat;
   background-position: 16px 24px;
   font-weight: 500;
